@@ -1,0 +1,77 @@
+{
+  "succeed": true,
+  "data": {
+    "topicList": [
+      {
+        "id": 1,
+        "title": "社会热点",
+        "imgUrl": "https://upload.jianshu.io/collections/images/95/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/144/h/144/format/webp"
+      },
+      {
+        "id": 2,
+        "title": "手绘",
+        "imgUrl": "https://upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/144/h/144/format/webp"
+      }
+    ],
+    "articleList": [
+      {
+        "id": 1,
+        "title": "越来越沉默",
+        "desc": "罗曼罗兰曾说过这样一句话：“有些事情是不能告诉别人的，有些事情是不必告诉别人的，有些事情是根本没有办法告诉别人的，而有些事情即使告诉了别人你也会...",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/18428859-36813934492261df.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+        "diamond": 30,
+        "writer": "cap",
+        "message": 10,
+        "like": 30
+      },
+      {
+        "id": 2,
+        "title": "心理学：安静的女人，都是“狠角色”，向来如此",
+        "desc": "诸葛亮《诫子书》中所说：非宁静无以致远。静能生智，静能修生养性，对于一个女人来说，＂静＂更是人生的哲学。 在安静的生命之中，万事万物中任何的一切...",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/11864358-9ec2f86250fb708b?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+        "diamond": 77,
+        "writer": "happier",
+        "message": 140,
+        "like": 33
+      },
+      {
+        "id": 3,
+        "title": "《被讨厌的勇气》",
+        "desc": "遇见《被讨厌的勇气》源于参加了一个共读活动，筹划者选择了这本书，我因为书名而参加了活动，因为是付费参与，且有押金，就是冲着要把押金要回来，所以参...",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/3957486-804f445327b51f58.png?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+        "diamond": 30,
+        "writer": "rain",
+        "message": 150,
+        "like": 57
+      },
+      {
+        "id": 4,
+        "title": "被讨厌的勇气",
+        "desc": "作者：李弯湾 为了了解人性和婚姻，我曾花了很大很大的精力和时间。 这些精力和时间，主要花在两个方面。 一是在过去5年间，我听了一万多个情感案例，...",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/15924133-afa30aac6c683b65.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+        "diamond": 87,
+        "writer": "sunshine",
+        "message": 15,
+        "like": 62
+      }
+    ],
+    "RecommendList": [
+      {
+        "id": 1,
+        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+      },
+      {
+        "id": 2,
+        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+      },
+      {
+        "id": 3,
+        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+      },
+      {
+        "id": 4,
+        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+      }
+    ]
+  }
+}
